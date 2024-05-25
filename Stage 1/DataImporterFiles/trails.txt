@@ -1,0 +1,401 @@
+20001,Mount Meron Trail,Easy,25,Upper Galilee
+20002,Masada Summit Trail,Moderate,30,Dead Sea
+20003,Ein Gedi Nature Reserve,Moderate,20,Dead Sea
+20004,Banias Waterfall Trail,Moderate,35,Golan Heights
+20005,Ramon Crater Rim Trail,Difficult,50,Negev Desert
+20006,Nahal Snir Nature Trail,Easy,15,Upper Galilee
+20007,Wadi Qelt Trail,Moderate,40,Judean Desert
+20008,Ein Avdat Canyon Trail,Moderate,30,Negev Desert
+20009,Mount Tabor Trail,Difficult,45,Lower Galilee
+20010,Mount Arbel Trail,Difficult,55,Lower Galilee
+20011,Tel Dan Nature Reserve,Easy,20,Upper Galilee
+20012,En Gedi Waterfalls Trail,Moderate,35,Dead Sea
+20013,Sataf Nature Trail,Easy,10,Jerusalem Hills
+20014,Yehudiya Forest Nature R,Moderate,25,Golan Heights
+20015,Ein Hod Artists' Trail,Easy,20,Carmel Mountains
+20016,Nahal Kziv Trail,Moderate,30,Upper Galilee
+20017,Mount Carmel Ridge Path,Difficult,60,Carmel Mountains
+20018,Ein Gedi Ein Gedi Oasis,Moderate,35,Dead Sea
+20019,Banias River Trail,Easy,15,Golan Heights
+20020,Har HaAri (Lion Mountai,Difficult,50,Lower Galilee
+20021,Nahal Amud Trail,Moderate,40,Upper Galilee
+20022,Wadi Zin Trail,Moderate,25,Negev Desert
+20023,Yatir Forest Trail,Easy,10,Negev Desert
+20024,Makhtesh Ramon,Difficult,55,Negev Desert
+20025,Tzippori Forest Nature,Moderate,30,Lower Galilee
+20026,Nahal Alexander Park,Easy,20,Sharon Plain
+20027,Nahal Betzet Trail,Moderate,35,Upper Galilee
+20028,Mount Bental,Difficult,45,Golan Heights
+20029,Ofer Forest,Easy,10,Golan Heights
+20030,Nahal Dishon Nature Res,Moderate,30,Upper Galilee
+20031,Har Gilboa,Difficult,50,Jezreel Valley
+20032,Nahal Hashofet,Moderate,35,Carmel Mountains
+20033,Nahal Snir Nature Reser,Easy,20,Upper Galilee
+20034,Mount Gilboa,Difficult,55,Jezreel Valley
+20035,Har Karkom,Difficult,60,Negev Desert
+20036,Nahal HaShofet,Difficult,55,Carmel Mountains
+20037,Yam L'Yam Trail,Difficult,60,Upper Galilee
+20038,Nahal Ayun Reserve,Easy,10,Upper Galilee
+20039,Tavor Stream Trail,Moderate,25,Lower Galilee
+20040,Nahal Snir Nature Reserve,Moderate,30,Upper Galilee
+20041,Ein Gedi,Difficult,50,Dead Sea
+20042,Nahal Katlav,Difficult,55,Jerusalem Hills
+20043,Masada and Snake Path,Moderate,35,Dead Sea
+20044,David Stream Trail,Easy,15,Upper Galilee
+20045,Ya'ar HaGai,Difficult,60,Carmel Mountains
+20046,Grofit Canyon,Difficult,50,Negev Desert
+20047,Bar'am Forest Trail,Moderate,30,Upper Galilee
+20048,Nahal Tzalmon Nature Reserve,Easy,20,Lower Galilee
+20049,Amud Stream,Difficult,55,Upper Galilee
+20050,Keziv Stream Trail,Moderate,40,Upper Galilee
+20051,Gan HaShlosha National Park,Easy,10,Lower Galilee
+20052,Yehudiya Stream Nature Reserve,Difficult,60,Golan Heights
+20053,Nahal Dishon Trail,Moderate,30,Upper Galilee
+20054,Mount Arbel and Wadi Hamam,Difficult,50,Lower Galilee
+20055,Ye'elim Stream,Difficult,55,Negev Desert
+20056,Mount Bental and Quneitra,Difficult,60,Golan Heights
+20057,Mount Arbel - Mitzpe,Difficult,55,Lower Galilee
+20058,Mount Karbolet,Difficult,50,Negev Desert
+20059,Nahal Amud,Difficult,55,Upper Galilee
+20060,Dead Sea Promenade,Easy,10,Dead Sea
+20061,Yahudiya Falls Trail,Difficult,60,Golan Heights
+20062,Nahal Kziv,Difficult,55,Upper Galilee
+20063,Nahal HaKibbutzim,Difficult,55,Carmel Mountains
+20064,Nahal Taninim,Difficult,50,Western Galilee
+20065,Hatira Stream,Difficult,55,Upper Galilee
+20066,Masada West,Difficult,60,Dead Sea
+20067,Nahal Tavor,Difficult,60,Lower Galilee
+20068,Mount Arbel - Wadi Amud,Difficult,60,Lower Galilee
+20069,Mount Arbel - Wadi Tavor,Difficult,55,Lower Galilee
+20070,Nahal Hilazon,Difficult,55,Lower Galilee
+20071,Mount Bental - Wadi Karkar,Difficult,60,Golan Heights
+20072,Nahal David,Difficult,60,Dead Sea
+20073,Nahal Zavitan,Difficult,55,Golan Heights
+20074,Nahal Og,Difficult,60,Negev Desert
+20075,Nahal Tze'elim,Difficult,55,Negev Desert
+20076,Nahal Tze'elim - Wadi Ruhaiba,Difficult,60,Negev Desert
+20077,Nahal Tze'elim - Wadi Zin,Difficult,55,Negev Desert
+20078,Nahal Tze'elim - Wadi Hazeva,Difficult,60,Negev Desert
+20079,Nahal Tze'elim - Wadi Arugot,Difficult,55,Negev Desert
+20080,Nahal Tze'elim - Wadi Tlalim,Difficult,60,Negev Desert
+20081,Nahal Tze'elim - Wadi Paran,Difficult,55,Negev Desert
+20082,Nahal Tze'elim - Wadi Nitzana,Difficult,60,Negev Desert
+20083,Nahal Tze'elim - Wadi Gishron,Difficult,55,Negev Desert
+20084,Nahal Tze'elim - Wadi Akrabim,Difficult,60,Negev Desert
+20085,Nahal Tze'elim - Wadi Be'er Milka,Difficult,55,Negev Desert
+20086,Nahal Tze'elim - Wadi Tlalim,Difficult,60,Negev Desert
+20087,Nahal Tze'elim - Wadi Ramon,Difficult,55,Negev Desert
+20088,Mount Arbel Trail,Intermediate,60,Galilee
+20089,Mount Bental Trail,Intermediate,55,Golan Heights
+20090,Nahal Amud Trail,Easy,60,Upper Galilee
+20091,Nahal Ayun Trail,Difficult,55,Upper Galilee
+20092,Nahal Hermon Trail,Intermediate,60,Golan Heights
+20093,Mount Gilboa Trail,Intermediate,55,Galilee
+20094,Nahal Dishon Trail,Difficult,60,Upper Galilee
+20095,Nahal Daliyot Trail,Easy,55,Upper Galilee
+20096,Nahal Ga'aton Trail,Intermediate,60,Western Galilee
+20097,Nahal Gafat Trail,Intermediate,55,Western Galilee
+20098,Nahal Harod Trail,Difficult,60,Lower Galilee
+20099,Nahal Hashofet Trail,Difficult,55,Lower Galilee
+20100,Nahal Hatzbani Trail,Intermediate,60,Upper Galilee
+20101,Nahal Jordan Trail,Intermediate,55,Lower Galilee
+20102,Nahal Kadesh Trail,Difficult,60,Galilee
+20103,Nahal Kziv Trail,Easy,55,Western Galilee
+20104,Nahal Ma'ayan Trail,Intermediate,60,Upper Galilee
+20105,Nahal Snir Trail,Intermediate,55,Upper Galilee
+20106,Nahal Tabor Trail,Difficult,60,Lower Galilee
+20107,Nahal Te'enim Trail,Easy,55,Galilee
+20108,Nahal Yehudiya Trail,Intermediate,60,Golan Heights
+20109,Nahal Yishuv Trail,Difficult,55,Upper Galilee
+20110,Nahal Zavitan Trail,Difficult,60,Golan Heights
+20111,Nahal Hilazon Trail,Intermediate,55,Upper Galilee
+20112,Nahal Tavor Trail,Easy,60,Lower Galilee
+20113,Nahal HaShofet Trail,Difficult,55,Western Galilee
+20114,Nahal Meron Trail,Intermediate,60,Upper Galilee
+20115,Nahal Keziv Trail,Intermediate,55,Western Galilee
+20116,Nahal Oren Trail,Difficult,60,Western Galilee
+20117,Nahal Yavne'el Trail,Intermediate,55,Lower Galilee
+20118,Nahal Gamla Trail,Intermediate,60,Golan Heights
+20119,Nahal Betzet Trail,Difficult,55,Western Galilee
+20120,Nahal Tavor Trail,Intermediate,60,Lower Galilee
+20121,Nahal Ayun Trail,Easy,55,Upper Galilee
+20122,Nahal Amud Trail,Intermediate,60,Western Galilee
+20123,Nahal Ayit Trail,Intermediate,55,Lower Galilee
+20124,Nahal Eshkol Trail,Difficult,60,Upper Galilee
+20125,Nahal Ga'aton Trail,Intermediate,55,Western Galilee
+20126,Nahal Golan Trail,Difficult,60,Golan Heights
+20127,Nahal Hamat Trail,Intermediate,55,Lower Galilee
+20128,Nahal Hanita Trail,Easy,60,Western Galilee
+20129,Nahal Hatzbani Trail,Difficult,55,Upper Galilee
+20130,Nahal Hermon Trail,Intermediate,60,Golan Heights
+20131,Nahal Iyyon Trail,Intermediate,55,Upper Galilee
+20132,Nahal Jilabun Trail,Difficult,60,Western Galilee
+20133,Nahal Karmi'el Trail,Intermediate,55,Lower Galilee
+20134,Nahal Kedesh Trail,Easy,60,Upper Galilee
+20135,Nahal Keren Trail,Intermediate,55,Western Galilee
+20136,Nahal Kochav Trail,Difficult,60,Golan Heights
+20137,Nahal Ma'ayan Harod Trail,Intermediate,55,Lower Galilee
+20138,Nahal Menara Trail,Intermediate,60,Upper Galilee
+20139,Nahal Mishmar HaYarden Trail,Difficult,55,Western Galilee
+20140,Nahal Mutzlim Trail,Intermediate,60,Golan Heights
+20141,Nahal Na'aman Trail,Easy,55,Western Galilee
+20142,Nahal Nir David Trail,Intermediate,60,Lower Galilee
+20143,Nahal Oren Trail,Intermediate,55,Western Galilee
+20144,Nahal Peres Trail,Difficult,60,Upper Galilee
+20145,Nahal Ramim Trail,Intermediate,55,Lower Galilee
+20146,Nahal Rosh Pinna Trail,Difficult,60,Upper Galilee
+20147,Nahal Sa'ar Trail,Intermediate,55,Western Galilee
+20148,Nahal Sa'ar Trail,Easy,60,Golan Heights
+20149,Nahal Sagi Trail,Difficult,55,Upper Galilee
+20150,Nahal Sal'am Trail,Intermediate,60,Lower Galilee
+20151,Nahal Sasa Trail,Intermediate,55,Western Galilee
+20152,Nahal Shani Trail,Difficult,60,Upper Galilee
+20153,Nahal Soreq Trail,Intermediate,55,Golan Heights
+20154,Nahal Tavor Trail,Easy,60,Lower Galilee
+20155,Nahal Tel Dan Trail,Intermediate,55,Western Galilee
+20156,Nahal Tzalmon Trail,Difficult,60,Upper Galilee
+20157,Nahal Yardenit Trail,Intermediate,55,Lower Galilee
+20158,Nahal Yehudiya Trail,Intermediate,60,Golan Heights
+20159,Nahal Zavitan Trail,Difficult,55,Upper Galilee
+20160,Nahal Zippori Trail,Intermediate,60,Western Galilee
+20161,Nahal Zohar Trail,Easy,55,Lower Galilee
+20162,Nahal Amud Trail,Intermediate,60,Upper Galilee
+20163,Nahal Arbel Trail,Intermediate,55,Western Galilee
+20164,Nahal Ayun Trail,Difficult,60,Lower Galilee
+20165,Nahal Barak Trail,Intermediate,55,Upper Galilee
+20166,Nahal Dishon Trail,Intermediate,60,Western Galilee
+20167,Nahal El Al Trail,Difficult,55,Lower Galilee
+20168,Nahal El Al Trail,Intermediate,60,Upper Galilee
+20169,Nahal El Al Trail,Easy,55,Western Galilee
+20170,Nahal Gamla Trail,Intermediate,60,Lower Galilee
+20171,Nahal Gamla Trail,Difficult,55,Upper Galilee
+20172,Nahal Gamla Trail,Intermediate,60,Western Galilee
+20173,Nahal Gilbon Trail,Intermediate,55,Lower Galilee
+20174,Nahal Gilbon Trail,Easy,60,Upper Galilee
+20175,Nahal Gilbon Trail,Intermediate,55,Western Galilee
+20176,Nahal Gishron Trail,Difficult,60,Lower Galilee
+20177,Nahal Gishron Trail,Intermediate,55,Upper Galilee
+20178,Nahal Gishron Trail,Intermediate,60,Western Galilee
+20179,Nahal Hakibbutzim Trail,Difficult,55,Lower Galilee
+20180,Nahal Hakibbutzim Trail,Intermediate,60,Upper Galilee
+20181,Nahal Hakibbutzim Trail,Easy,55,Western Galilee
+20182,Nahal Harod Trail,Intermediate,60,Lower Galilee
+20183,Nahal Harod Trail,Difficult,55,Upper Galilee
+20184,Nahal Harod Trail,Intermediate,60,Western Galilee
+20185,Nahal Hashofet Trail,Intermediate,55,Lower Galilee
+20186,Nahal Hashofet Trail,Easy,60,Upper Galilee
+20187,Nahal Hashofet Trail,Intermediate,55,Western Galilee
+20188,Nahal Hatzbani Trail,Difficult,60,Lower Galilee
+20189,Nahal Hatzbani Trail,Intermediate,55,Upper Galilee
+20190,Nahal Hatzbani Trail,Intermediate,60,Western Galilee
+20191,Nahal Hermon Trail,Intermediate,55,Lower Galilee
+20192,Nahal Hermon Trail,Difficult,60,Upper Galilee
+20193,Nahal Hermon Trail,Intermediate,55,Western Galilee
+20194,Nahal Hilazon Trail,Intermediate,60,Lower Galilee
+20195,Nahal Hilazon Trail,Difficult,55,Upper Galilee
+20196,Nahal Hilazon Trail,Intermediate,60,Western Galilee
+20197,Nahal Jordan Trail,Intermediate,55,Lower Galilee
+20198,Nahal Jordan Trail,Easy,60,Upper Galilee
+20199,Nahal Jordan Trail,Intermediate,55,Western Galilee
+20200,Nahal Kadesh Trail,Difficult,60,Lower Galilee
+20201,Nahal Kadesh Trail,Intermediate,55,Upper Galilee
+20202,Nahal Kadesh Trail,Difficult,60,Western Galilee
+20203,Nahal Kadesh Trail,Intermediate,55,Lower Galilee
+20204,Nahal Kanaf Trail,Intermediate,60,Upper Galilee
+20205,Nahal Kanaf Trail,Difficult,55,Western Galilee
+20206,Nahal Kanaf Trail,Intermediate,60,Lower Galilee
+20207,Nahal Kedesh Trail,Difficult,55,Upper Galilee
+20208,Nahal Kedesh Trail,Intermediate,60,Western Galilee
+20209,Nahal Kedesh Trail,Intermediate,55,Lower Galilee
+20210,Nahal Kerem Trail,Intermediate,60,Upper Galilee
+20211,Nahal Kerem Trail,Difficult,55,Western Galilee
+20212,Nahal Kerem Trail,Intermediate,60,Lower Galilee
+20213,Nahal Keshet Trail,Intermediate,55,Upper Galilee
+20214,Nahal Keshet Trail,Easy,60,Western Galilee
+20215,Nahal Keshet Trail,Intermediate,55,Lower Galilee
+20216,Nahal Kidron Trail,Difficult,60,Upper Galilee
+20217,Nahal Kidron Trail,Intermediate,55,Western Galilee
+20218,Nahal Kidron Trail,Intermediate,60,Lower Galilee
+20219,Nahal Kishon Trail,Intermediate,55,Upper Galilee
+20220,Nahal Kishon Trail,Difficult,60,Western Galilee
+20221,Nahal Kishon Trail,Intermediate,55,Lower Galilee
+20222,Nahal Kittot Trail,Intermediate,60,Upper Galilee
+20223,Nahal Kittot Trail,Easy,55,Western Galilee
+20224,Nahal Kittot Trail,Intermediate,60,Lower Galilee
+20225,Nahal Lavon Trail,Difficult,55,Upper Galilee
+20226,Nahal Lavon Trail,Intermediate,60,Western Galilee
+20227,Nahal Lavon Trail,Intermediate,55,Lower Galilee
+20228,Nahal Lavi Trail,Intermediate,60,Upper Galilee
+20229,Nahal Lavi Trail,Difficult,55,Western Galilee
+20230,Nahal Lavi Trail,Intermediate,60,Lower Galilee
+20231,Nahal Levanon Trail,Intermediate,55,Upper Galilee
+20232,Nahal Levanon Trail,Easy,60,Western Galilee
+20233,Nahal Levanon Trail,Intermediate,55,Lower Galilee
+20234,Nahal Lotem Trail,Intermediate,60,Upper Galilee
+20235,Nahal Lotem Trail,Difficult,55,Western Galilee
+20236,Nahal Lotem Trail,Intermediate,60,Lower Galilee
+20237,Nahal Ma'aleh Tzurim Trail,Intermediate,55,Upper Galilee
+20238,Nahal Ma'aleh Tzurim Trail,Difficult,60,Western Galilee
+20239,Nahal Ma'aleh Tzurim Trail,Intermediate,55,Lower Galilee
+20240,Nahal Ma'ayan Trail,Intermediate,60,Upper Galilee
+20241,Mount Tavor Trail,Difficult,45,Mount Tabor
+20242,Mount Tavor Trail,Intermediate,50,Mount Tabor
+20243,Mount Tavor Trail,Intermediate,45,Mount Tabor
+20244,Mount Tabor Trail,Intermediate,50,Mount Tabor
+20245,Mount Tabor Trail,Easy,45,Mount Tabor
+20246,Mount Tabor Trail,Intermediate,50,Mount Tabor
+20247,Mount Tabor Summit Trail,Intermediate,45,Mount Tabor
+20248,Mount Tabor Summit Trail,Difficult,50,Mount Tabor
+20249,Mount Tabor Summit Trail,Intermediate,45,Mount Tabor
+20250,Mount Tabor Ascent Trail,Intermediate,50,Mount Tabor
+20251,Mount Tabor Ascent Trail,Difficult,45,Mount Tabor
+20252,Mount Tabor Ascent Trail,Intermediate,50,Mount Tabor
+20253,Mount Tavor Slope Trail,Intermediate,45,Mount Tabor
+20254,Mount Tavor Slope Trail,Easy,50,Mount Tabor
+20255,Mount Tavor Slope Trail,Intermediate,45,Mount Tabor
+20256,Mount Tavor Loop Trail,Difficult,50,Mount Tabor
+20257,Mount Tavor Loop Trail,Intermediate,45,Mount Tabor
+20258,Mount Tavor Loop Trail,Intermediate,50,Mount Tabor
+20259,Mount Tavor Ridge Trail,Intermediate,45,Mount Tabor
+20260,Mount Tavor Ridge Trail,Difficult,50,Mount Tabor
+20261,Mount Tavor Ridge Trail,Intermediate,45,Mount Tabor
+20262,Mount Tavor Descent Trail,Intermediate,50,Mount Tabor
+20263,Mount Tavor Descent Trail,Easy,45,Mount Tabor
+20264,Mount Tavor Descent Trail,Intermediate,50,Mount Tabor
+20265,Mount Tavor Climb Trail,Difficult,45,Mount Tabor
+20266,Mount Tavor Climb Trail,Intermediate,50,Mount Tabor
+20267,Mount Tavor Climb Trail,Intermediate,45,Mount Tabor
+20268,Mount Tabor Hike Trail,Intermediate,50,Mount Tabor
+20269,Mount Tabor Hike Trail,Difficult,45,Mount Tabor
+20270,Mount Tabor Hike Trail,Intermediate,50,Mount Tabor
+20271,Arugot Stream Trail,Difficult,15,Ein Gedi
+20272,Arugot Stream Trail,Intermediate,12,Jerusalem
+20273,Arugot Stream Trail,Intermediate,18,Arad
+20274,En Gedi Nature Reserve Trail,Intermediate,22,Arad
+20275,En Gedi Nature Reserve Trail,Difficult,28,Jerusalem
+20276,En Gedi Nature Reserve Trail,Intermediate,25,Arad
+20277,Mount Sodom Trail,Intermediate,27,Arad
+20278,Mount Sodom Trail,Difficult,30,Eilat
+20279,Mount Sodom Trail,Intermediate,25,Arad
+20280,Dead Sea Panorama Trail,Intermediate,20,Arad
+20281,Dead Sea Panorama Trail,Easy,18,Jerusalem
+20282,Dead Sea Panorama Trail,Intermediate,22,Arad
+20283,Masada Snake Path Trail,Difficult,30,Arad
+20284,Masada Snake Path Trail,Intermediate,25,Eilat
+20285,Masada Snake Path Trail,Difficult,28,Arad
+20286,Negev Highlands Trail,Difficult,25,Arad
+20287,Negev Highlands Trail,Intermediate,22,Arad
+20288,Negev Highlands Trail,Intermediate,18,Eilat
+20289,Ein Avdat Canyon Trail,Intermediate,20,Arad
+20290, Ein Avdat Canyon Trail,Difficult,25,Jerusalem
+20291, Ein Avdat Canyon Trail,Intermediate,22,Arad
+20292,Israel National Trail,Difficult,30,Arad
+20293,Israel National Trail,Intermediate,25,Eilat
+20294,Israel National Trail,Difficult,28,Arad
+20295,En Gedi Springs Trail,Intermediate,22,Arad
+20296,En Gedi Springs Trail,Difficult,27,Eilat
+20297,En Gedi Springs Trail,Intermediate,25,Arad
+20298,Nahal David Trail,Intermediate,20,Arad
+20299,Nahal David Trail,Easy,18,Jerusalem
+20300,Nahal David Trail,Intermediate,22,Arad
+20301,Adulam Park Trail,Intermediate,15,Beit Shemesh
+20302,Adulam Park Trail,Easy,12,Jerusalem
+20303,Adulam Park Trail,Intermediate,18,Beit Shemesh
+20304,Emek HaEla Trail,Intermediate,22,Jerusalem
+20305,Emek HaEla Trail,Easy,18,Beit Shemesh
+20306,Emek HaEla Trail,Intermediate,20,Jerusalem
+20307,Elah Valley Trail,Intermediate,25,Beit Shemesh
+20308,Elah Valley Trail,Easy,20,Jerusalem
+20309,Elah Valley Trail,Intermediate,22,Beit Shemesh
+20310,Jerusalem Hills Trail,Intermediate,18,Jerusalem
+20311,Jerusalem Hills Trail,Easy,15,Beit Shemesh
+20312,Jerusalem Hills Trail,Intermediate,20,Jerusalem
+20313,Neot Kedumim Trail,Intermediate,22,Beit Shemesh
+20314,Neot Kedumim Trail,Easy,18,Jerusalem
+20315,Neot Kedumim Trail,Intermediate,20,Beit Shemesh
+20316,Soreq Cave Trail,Intermediate,25,Jerusalem
+20317,Soreq Cave Trail,Easy,20,Beit Shemesh
+20318,Soreq Cave Trail,Intermediate,22,Jerusalem
+20319,Tzora Forest Trail,Intermediate,18,Beit Shemesh
+20320,Tzora Forest Trail,Easy,15,Jerusalem
+20321,Tzora Forest Trail,Intermediate,20,Beit Shemesh
+20322,Eilat Mountains Trail,Intermediate,30,Eilat
+20323,Eilat Mountains Trail,Easy,25,Eilat
+20324,Eilat Mountains Trail,Intermediate,28,Eilat
+20325,Red Canyon Trail,Intermediate,35,Eilat
+20326,Red Canyon Trail,Easy,30,Eilat
+20327,Red Canyon Trail,Intermediate,32,Eilat
+20328,Timna Park Trail,Intermediate,30,Eilat
+20329,Timna Park Trail,Easy,25,Eilat
+20330,Timna Park Trail,Intermediate,28,Eilat
+20331,Coral Beach Nature Reserve Trail,Intermediate,35,Eilat
+20332,Coral Beach Nature Reserve Trail,Easy,30,Eilat
+20333,Coral Beach Nature Reserve Trail,Intermediate,32,Eilat
+20334,Eilat Bird Watching Park Trail,Intermediate,30,Eilat
+20335,Eilat Bird Watching Park Trail,Easy,25,Eilat
+20336,Eilat Bird Watching Park Trail,Intermediate,28,Eilat
+20337,Negev Desert Trail,Intermediate,35,Eilat
+20338,Negev Desert Trail,Easy,30,Eilat
+20339,Negev Desert Trail,Intermediate,32,Eilat
+20401,Carmel Mountain Trail,Intermediate,28,Tel Aviv
+20402,Carmel Mountain Trail,Easy,23,Tel Aviv
+20403,Carmel Mountain Trail,Intermediate,25,Tel Aviv
+20404,Yarkon Park Trail,Intermediate,30,Tel Aviv
+20405,Yarkon Park Trail,Easy,25,Tel Aviv
+20406,Yarkon Park Trail,Intermediate,28,Tel Aviv
+20407,Ben Shemen Forest Trail,Intermediate,30,Tel Aviv
+20408,Ben Shemen Forest Trail,Easy,25,Tel Aviv
+20409,Ben Shemen Forest Trail,Intermediate,28,Tel Aviv
+20410,Ayalon Park Trail,Intermediate,32,Tel Aviv
+20411,Ayalon Park Trail,Easy,27,Tel Aviv
+20412,Ayalon Park Trail,Intermediate,30,Tel Aviv
+20413,Apollonia National Park Trail,Intermediate,35,Tel Aviv
+20414,Apollonia National Park Trail,Easy,30,Tel Aviv
+20415,Apollonia National Park Trail,Intermediate,32,Tel Aviv
+20416,Hertzliya Park Trail,Intermediate,30,Tel Aviv
+20417,Hertzliya Park Trail,Easy,25,Tel Aviv
+20418,Hertzliya Park Trail,Intermediate,28,Tel Aviv
+20419,Sharon Beach Trail,Intermediate,35,Tel Aviv
+20420,Sharon Beach Trail,Easy,30,Tel Aviv
+20421,Sharon Beach Trail,Intermediate,32,Tel Aviv
+20601,Mount Carmel National Park Trail,Intermediate,40,Haifa
+20602,Mount Carmel National Park Trail,Easy,35,Haifa
+20603,Mount Carmel National Park Trail,Intermediate,38,Haifa
+20604,Ein Hod Trail,Intermediate,30,Haifa
+20605,Ein Hod Trail,Easy,25,Haifa
+20606,Ein Hod Trail,Intermediate,28,Haifa
+20607,Ein Hod Trail,Intermediate,35,Haifa
+20608,Ein Hod Trail,Easy,30,Haifa
+20609,Ein Hod Trail,Intermediate,32,Haifa
+20610,Beit Shearim National Park Trail,Intermediate,45,Haifa
+20611,Beit Shearim National Park Trail,Easy,40,Haifa
+20612,Beit Shearim National Park Trail,Intermediate,42,Haifa
+20613,Nahal Alexander Trail,Intermediate,20,Netanya
+20614,Nahal Alexander Trail,Easy,15,Netanya
+20615,Nahal Alexander Trail,Intermediate,18,Netanya
+20616,Netanya Promenade Trail,Intermediate,25,Netanya
+20617,Netanya Promenade Trail,Easy,20,Netanya
+20618,Netanya Promenade Trail,Intermediate,23,Netanya
+20619,Irises Reserve Trail,Intermediate,35,Netanya
+20620,Irises Reserve Trail,Easy,30,Netanya
+20621,Irises Reserve Trail,Intermediate,32,Netanya
+20622,Shefayim Water Park Trail,Intermediate,40,Netanya
+20623,Shefayim Water Park Trail,Easy,35,Netanya
+20624,Shefayim Water Park Trail,Intermediate,38,Netanya
+20625,Shefayim Water Park Trail,Easy,30,Netanya
+20626,Shefayim Water Park Trail,Intermediate,32,Netanya
+20627,Tel Afek National Park Trail,Intermediate,45,Netanya
+20628,Tel Afek National Park Trail,Easy,40,Netanya
+20629,Tel Afek National Park Trail,Intermediate,42,Netanya
+20630,Nahal Hadera Park Trail,Intermediate,20,Netanya
+20631,Nahal Hadera Park Trail,Easy,15,Netanya
+20632,Nahal Hadera Park Trail,Intermediate,18,Netanya
+20633,Mount Tavor Trail,Intermediate,25,Haifa
+20634,Mount Tavor Trail,Easy,20,Haifa
+20635,Mount Tavor Trail,Intermediate,23,Haifa
+20636,Hof HaCarmel Trail,Intermediate,35,Haifa
+20637,Hof HaCarmel Trail,Easy,30,Haifa
+20638,Hof HaCarmel Trail,Intermediate,32,Haifa
+20639,Tel Shikmona Trail,Intermediate,40,Haifa
+20640,Tel Shikmona Trail,Easy,35,Haifa
+20641,Tel Shikmona Trail,Intermediate,38,Haifa

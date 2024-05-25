@@ -1,0 +1,10 @@
+DROP TABLE Hikers_on_trail;
+DROP TABLE Bikers_on_trail;
+DROP TABLE Customers_payment;
+DROP TABLE Employee_at_trail;
+DROP TABLE Hiking_Trails;
+DROP TABLE Biking_Trails;
+DROP TABLE Payment;
+DROP TABLE Customers;
+DROP TABLE Employees;
+DROP TABLE Trails;

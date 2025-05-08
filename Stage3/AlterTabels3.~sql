@@ -1,0 +1,8 @@
+-- Add/modify columns  
+alter table TRAILS modify trail_rating NUMBER NOT NULL;
+
+-- Add/modify columns 
+alter table BIKERS_ON_TRAIL modify rating NUMBER(1) NOT NULL;
+ 
+-- Add/modify columns  
+alter table HIKERS_ON_TRAIL modify rating NUMBER(1) NOT NULL;

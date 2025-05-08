@@ -1,0 +1,14 @@
+INSERT INTO Employee (personid, seniority, workhours, hourlywage, position)
+SELECT e.employee_id, 
+       e.seniority, 
+       FLOOR(1 + (DBMS_RANDOM.VALUE() * 9)),  -- Random work hours between 1 and 9
+       FLOOR(10 + (DBMS_RANDOM.VALUE() * 90)), -- Random hourly wage between 10 and 100
+       t.job
+FROM Employees e
+JOIN Employee_at_trail t ON e.employee_id = t.employee_id;
+
+
+select * from employee;
+
+ALTER TABLE EMPLOYEE
+DROP COLUMN EVENTID;

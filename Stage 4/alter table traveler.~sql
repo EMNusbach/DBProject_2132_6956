@@ -1,0 +1,19 @@
+-- step 1
+ALTER TABLE Customers
+RENAME TO Traveler;
+
+-- step 2
+ALTER TABLE Traveler
+DROP COLUMN traveler_name;
+
+ALTER TABLE Traveler
+DROP COLUMN traveler_age;
+
+ALTER TABLE Traveler
+DROP COLUMN contact_info;
+
+ALTER TABLE Traveler
+DROP COLUMN birth_date;
+
+select * from traveler;
+

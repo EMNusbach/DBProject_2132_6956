@@ -1,0 +1,25 @@
+PL/SQL Developer Test script 3.0
+18
+-- Insert customers into the PERSON table
+BEGIN
+
+  FOR rec IN (SELECT traveler_id, traveler_name, contact_info, birth_date
+                         FROM customers) LOOP
+    -- Split the employee name into first and last name
+    DECLARE
+      first_name VARCHAR2(20);
+      last_name  VARCHAR2(20);
+    BEGIN
+      first_name := SUBSTR(rec.TRAVELER_NAME, 1, INSTR(rec.TRAVELER_NAME, ' ') - 1);
+      last_name := SUBSTR(rec.TRAVELER_NAME, INSTR(rec.TRAVELER_NAME, ' ') + 1);
+      
+      INSERT INTO PERSON (PERSONID, FIRSTNAME, LASTNAME, ADDRESS, EMAIL, PHONENUMBER, BIRTH_DATE)
+      VALUES (rec.traveler_id, first_name, last_name, random_address, generate_email(first_name, last_name), rec.contact_info, rec.birth_date);
+    END;
+  END LOOP;
+END;
+1
+result
+0
+5
+0

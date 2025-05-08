@@ -1,0 +1,7 @@
+
+
+ALTER TABLE EVENT
+DROP COLUMN donorid_;
+
+ALTER TABLE EVENT
+DROP COLUMN employeeid;

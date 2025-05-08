@@ -1,0 +1,19 @@
+--adding to person a birth date
+ALTER TABLE PERSON
+ADD (birth_date DATE);
+
+UPDATE PERSON
+SET birth_date = TO_DATE(
+                   TRUNC(
+                     DBMS_RANDOM.VALUE(TO_CHAR(DATE '1940-01-01','J'),
+                                       TO_CHAR(DATE '2024-12-31','J'))
+                   ),'J');
+                   
+commit;
+
+--removing from Doner unneccery colomns
+ALTER TABLE DONOR
+DROP COLUMN EVENTID;
+
+ALTER TABLE DONOR
+DROP COLUMN PERSONID;
